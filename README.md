@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Caiusiscool
 - 👀 I’m interested in authentication systems, game cheats, and security
-- 🌱 I’m currently learning php and csharp
-- 📫 You can reach me at my discord, #mito#8093
+- 🌱 I do C# and PHP
+- 📫 You can reach me at my discord, mito#8093
 
 <!---
 Caiusiscool/Caiusiscool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
